@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Bapee
 
-<!--
-**bapee0/bapee0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ASIR & Cybersecurity Student | Red Team | CTF Player
 
-Here are some ideas to get you started:
+I'm a ASIR & Cybersecurity student interested in offensive security,
+penetration testing and low-level programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Cybersecurity
+
+- Red Team & Pentesting
+- Web Security
+- Linux
+- CTFs (Hack The Box & DockerLabs)
+- 
+## Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+## Featured Projects
+
+**CTF Writeups**  
+Writeups of machines and challenges from HTB, DockerLabs and CTF platforms.
+
+**Python Development**  
+Security-oriented Python projects and experimentation.
+
+---
