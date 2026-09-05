@@ -1,5 +1,5 @@
-# Hey, I'm Bapee 👨🏽‍💻​
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey,+I'm+Bapee👨🏽‍💻)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey,+I'm+Bapee👨🏽‍💻;ASIR & Cybersecurity Student | Red Team | CTF Player)](https://git.io/typing-svg)
+​
 ### ASIR & Cybersecurity Student | Red Team | CTF Player
 
 I'm an ASIR & Cybersecurity student focused on offensive security, penetration testing, and understanding how systems work at a deeper level.
