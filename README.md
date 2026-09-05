@@ -32,10 +32,10 @@ Focused on low-level programming, memory management, and system interaction, bui
 
 ## Featured Projects
 
-**CTF Writeups**
+### **CTF Writeups**
 Writeups of machines and challenges from Hack The Box, DockerLabs, picoCTF and other CTF platforms.
 
-**Python Development**
+### **Python Development**
 Cybersecurity-oriented tools, scripts, and experiments focused on offensive security.
 
 ---
