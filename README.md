@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=#+Hey,+I'm+Bapee👨🏽‍💻;ASIR & Cybersecurity Student | Red Team | CTF Player)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=#+Hey,+I'm+Bapee👨🏽‍💻;ASIR+&+Cybersecurity+Student+|+Red+Team+|+CTF+Player)](https://git.io/typing-svg)
 ​
 ### ASIR & Cybersecurity Student | Red Team | CTF Player
 
