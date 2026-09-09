@@ -49,5 +49,5 @@ Cybersecurity-oriented tools, scripts, and experiments focused on offensive secu
 
 If you want to contact me, collaborate, or simply talk about cybersecurity, you can find me here.
 
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge=linkedin&logoColor=white)](https://www.linkedin.com/in/ikersoriano/)
-![CyberProfile](https://img.shields.io/badge/CyberProfile?style=for-the-badge=firefox&logoColor=white)](https://cyber-profile.com/u/iker-soriano)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge=linkedin&logoColor=white)](https://www.linkedin.com/in/ikersoriano/)
+[![CyberProfile](https://img.shields.io/badge/CyberProfile-blue?style=for-the-badge=firefox&logoColor=white)](https://cyber-profile.com/u/iker-soriano)
