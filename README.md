@@ -43,8 +43,6 @@ Writeups of machines and challenges from Hack The Box, DockerLabs, picoCTF and o
 
 Cybersecurity-oriented tools, scripts, and experiments focused on offensive security.
 
----
-
 ## Connect
 
 If you want to contact me, collaborate, or simply talk about cybersecurity, you can find me here.
