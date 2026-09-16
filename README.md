@@ -13,6 +13,7 @@ Currently expanding my knowledge in Reverse Engineering and low-level programmin
 * Linux
 * CTFs — Hack The Box & DockerLabs
 * Reverse Engineering
+* Python Dev
 
 ## Languages
 
